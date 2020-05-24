@@ -1,0 +1,12 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/norlab-ulaval/percep3d_common.git
+	branch = master
+[submodule "lessons"]
+	path = lessons
+	url = https://github.com/norlab-ulaval/percep3d_lessons.git
+	branch = master
+[submodule "exercises"]
+	path = exercises
+	url = https://github.com/norlab-ulaval/percep3d_exercises.git
+	branch = master
