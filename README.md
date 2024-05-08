@@ -9,7 +9,7 @@ To do so, you should follow these steps:
 
 1. Clone the repository locally
    ```
-   git clone git@github.com:norlab-ulaval/percep3d_students.git
+   git clone https://github.com/norlab-ulaval/percep3d_students.git
    ```
 
 3. Initialize the submodules
