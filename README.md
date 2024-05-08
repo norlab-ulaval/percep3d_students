@@ -14,6 +14,7 @@ To do so, you should follow these steps:
 
 3. Initialize the submodules
    ```
+   cd percep3d_students &&
    git submodule init &&
    git submodule update &&
    git submodule foreach git checkout master
